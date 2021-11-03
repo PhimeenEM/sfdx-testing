@@ -1,0 +1,10 @@
+public class Something {
+    public static void main( String as[] ) {
+        for (Integer i = 0; i < 10; i++) 
+        {
+            select id, name from ACCOUNT 
+        {
+            List<Account> accounts = [SELECT Id FROM Account];
+        }
+    }
+}
