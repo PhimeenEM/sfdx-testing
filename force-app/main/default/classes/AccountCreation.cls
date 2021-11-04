@@ -1,10 +1,6 @@
 public Class AccountCreation
 {
-//test 1 from ori
-//test 2 from github
-//test 3 from github
-//test 4 from VS
-//test 5 from github
+// changes are made on 4/11
 Public List<Account> CreateAccount(String s, String p){
 
 List<Account> a = new List<Account>();
