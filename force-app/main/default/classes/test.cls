@@ -1,8 +1,6 @@
 public Class test
 {
-//test 1 from org
-//test 2 from github
-//test 3 from github
+// from github
 Public List<Account> CreateAccount(String s, String p){
 
 List<Account> a = new List<Account>();
